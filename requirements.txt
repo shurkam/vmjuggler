@@ -1,0 +1,2 @@
+pyvmomi=6.5
+future-fstrings=0.4.2
