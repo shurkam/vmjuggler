@@ -53,7 +53,7 @@ setup(
     # maintainers, and where to support the project financially. The key is
     # what's used to render the link text on PyPI.
     project_urls={  # Optional
-        # 'Documentation': 'https://vmjuggler.readthedocs.org/',  # TODO:
+        'Documentation': 'https://vmjuggler.readthedocs.io/en/latest/',
         'Bug Reports': 'https://github.com/shurkam/vmjuggler/issues',
         'Source': 'https://github.com/shurkam/vmjuggler/',
 

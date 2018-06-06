@@ -46,4 +46,4 @@ Please check documentation_ for more examples.
 
 .. _pyvmomi: https://github.com/vmware/pyvmomi
 .. _future-fstrings: https://github.com/asottile/future-fstrings
-.. _documentation: https://readthedocs.org
+.. _documentation: https://vmjuggler.readthedocs.io/en/latest/
